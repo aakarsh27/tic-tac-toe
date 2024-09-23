@@ -1,1 +1,1 @@
-# tic-tac-toe using front
+# tic-tac-toe using front end development
